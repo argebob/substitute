@@ -8,10 +8,6 @@
         stroke-width: 2.152px;
       }
 
-      .cls-2 {
-        fill: currentColor;
-      }
-
     </style>
   </defs>
   <g id="Layer_2" data-name="Layer 2">
@@ -540,7 +536,7 @@
       <line class="cls-1" x1="961.086" y1="869.672" x2="1920.581" y2="1444.415" />
       <line class="cls-1" x1="961.086" y1="869.665" x2="1920.581" y2="1464.575" />
       <line class="cls-1" x1="961.086" y1="869.659" x2="1920.581" y2="1484.735" />
-      <rect class="cls-2" x="861.145" y="804" width="201" height="128" />
+      <rect class="cls-1" x="861.145" y="804" width="201" height="128" />
     </g>
   </g>
 </svg>
